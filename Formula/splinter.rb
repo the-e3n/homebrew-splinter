@@ -8,7 +8,6 @@ class Splinter < Formula
     depends_on "go" => :build
 
     bottle do
-        root_url "https://github.com/the-e3n/homebrew-splinter/raw/main/Bottles"
         sha256 cellar: :any_skip_relocation, arm64_monterey: "9f9af0ba556eb4ba6c49bd7a4660f5022967dcf087968b19cd8e866c753c22ee"
     end
   
