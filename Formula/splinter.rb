@@ -2,7 +2,7 @@ class Splinter < Formula
     desc "Cross-platform and language independent db migration tool"
     homepage "https://github.com/squareboat/splinter#readme"
     url "https://github.com/squareboat/splinter/archive/refs/tags/v0.0.4.tar.gz"
-    sha256 "22d225d2ec5b7a471ecdb775f161fcddc227c3966c00ef505f32ac2e20971648"
+    sha256 "272271d380be0b01d6a209830d5a5fca80cc2a66df406a533bab99763be433be"
     license "MIT"
     
     depends_on "go" => :build
